@@ -29,10 +29,11 @@ function TradingCardContainer() {
     </React.Fragment>
   );
 }
-  
+
+<!-- need to work on this part -->
 ReactDOM.render(
   <TradingCardContainer />,
-  document.querySelector('#container')
+  document.querySelector('#containers')
   );
   
 
